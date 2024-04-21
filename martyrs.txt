@@ -1,0 +1,9 @@
+M10,26,Aamallah,2/22/2023,M
+M20,21,Aamallah,3/23/2023,M
+M30,22,Aamallah,3/23/2023,M
+M40,16,Aamallah,3/23/2023,M
+M50,36,Aamallah,4/24/2023,M
+M65,26,Jenin,1/30/2023,M
+M64,26,Jebron,1/30/2023,M
+M63,26,Hebron,1/30/2023,M
+M62,26,Hebron,2/3/2023,M
